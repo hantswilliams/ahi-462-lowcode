@@ -2,13 +2,13 @@
 AHI 462: low-code template project and instructions
 
 
-## Environment Selections
-### Backend 
-#### Supabase 
+## Low-code technology selections
+### Backend Tools
+#### Supabase {Option 1}
 - https://app.supabase.io/ 
-#### Hasura 
+#### Hasura {Option 2}
 - https://cloud.hasura.io/ 
 
-### Frontend 
+### Frontend Tools  
 #### AppgGyver 
 - https://www.appgyver.com/ 
