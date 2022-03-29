@@ -11,15 +11,17 @@ AHI 462: low-code template project and instructions
 - https://www.appgyver.com/ 
 
 ## Steps 
-### Environment setup 
-#### Backend
-#### Make selection: Supabase VS Hasura
+### Part 1: Environment setup 
+#### Backend - Make selection: Supabase VS Hasura
 - Create an account and a new project in one or the other
-#### Frontend 
-#### Appgyver 
+#### Frontend - Appgyver 
 - Create an account and a new project in AppGyver 
-### Data steps 
+
+
+### Part 2: Data steps 
 #### p1 - Extract 
 #### p2 - Transform 
 #### p3 - Load
-### Frontend 
+
+
+### Part 3: Frontend 
